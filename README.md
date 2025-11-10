@@ -1,6 +1,6 @@
 # 🧭 Task Tracker CLI
 
-A simple command-line task tracker written in **Python**, allowing you to manage tasks directly from your terminal.  
+A simple command-line task tracker written in **Golang**, allowing you to manage tasks directly from your terminal.  
 You can **add**, **update**, **delete**, and **mark tasks** as `todo`, `in-progress`, or `done`.  
 All tasks are stored persistently in a local JSON file — no external libraries required!
 
